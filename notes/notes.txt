@@ -1,0 +1,7 @@
+Self-regulation
+Planning the work using tools: 
+	Jira 
+	Jetking
+	MS Project
+	Agile - pipelines
+ 
